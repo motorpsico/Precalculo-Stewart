@@ -1,1 +1,3 @@
-"# Libro Prec†lculo de James Stewart" 
+# Prec√°lculo
+
+## James Stewart
